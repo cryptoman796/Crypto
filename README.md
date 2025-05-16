@@ -6,3 +6,4 @@ rose burger swap
 monad dno
 ola kvadro bobr
 lala ley
+crypto b
