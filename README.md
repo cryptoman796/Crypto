@@ -11,3 +11,4 @@ trump
 i i i i i ii i
 terminal consol
 ufo
+crypto x
