@@ -13,3 +13,4 @@ terminal consol
 ufo
 crypto x
 trump
+deposit
