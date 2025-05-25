@@ -15,3 +15,4 @@ crypto x
 trump
 deposit
 Echo
+Transfer
