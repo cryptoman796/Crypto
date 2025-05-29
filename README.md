@@ -19,3 +19,4 @@ Transfer
 pizdec
 Lens protocol
 Hello
+Wifi, hi-fi
