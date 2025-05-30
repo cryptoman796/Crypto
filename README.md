@@ -20,3 +20,4 @@ pizdec
 Lens protocol
 Hello
 Wifi, hi-fi
+WTF scam
