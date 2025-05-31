@@ -21,3 +21,4 @@ Lens protocol
 Hello
 Wifi, hi-fi
 WTF scam
+crypto scam
