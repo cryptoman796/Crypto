@@ -30,3 +30,4 @@ splat
 good day
 one moment
 eligibl
+Blum scam
