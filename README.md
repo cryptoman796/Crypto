@@ -33,3 +33,4 @@ eligibl
 Blum scam
 kill bill
 uniChain
+Analyze PAWS trend
