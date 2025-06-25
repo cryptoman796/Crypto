@@ -46,3 +46,4 @@ Twitter
 Biavis
 green
 sea
+testnet
