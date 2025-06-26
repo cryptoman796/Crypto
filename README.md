@@ -47,3 +47,4 @@ Biavis
 green
 sea
 testnet
+BNB
