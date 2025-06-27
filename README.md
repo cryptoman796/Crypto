@@ -48,3 +48,4 @@ green
 sea
 testnet
 BNB
+tiger
