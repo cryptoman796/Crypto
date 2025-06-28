@@ -49,3 +49,4 @@ sea
 testnet
 BNB
 tiger
+UNI &
