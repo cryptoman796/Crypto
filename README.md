@@ -50,3 +50,4 @@ testnet
 BNB
 tiger
 UNI &
+Bronze
