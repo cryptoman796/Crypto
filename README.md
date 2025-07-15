@@ -66,3 +66,4 @@ fly
 pool
 seed
 Rabby
+Daily Check-In
