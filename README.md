@@ -71,3 +71,4 @@ pool
 world
 twit
 labs
+wallet
